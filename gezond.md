@@ -1,0 +1,4 @@
+koorts
+gebroken
+last
+overgeven
