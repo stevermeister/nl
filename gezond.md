@@ -1,4 +1,4 @@
-koorts
-gebroken
-last
-overgeven
+- koorts
+- gebroken
+- last
+- overgeven
