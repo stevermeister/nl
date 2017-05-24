@@ -2,3 +2,4 @@
 - gebroken
 - last
 - overgeven
+- gekneusd
