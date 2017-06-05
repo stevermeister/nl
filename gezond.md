@@ -3,3 +3,5 @@
 - last
 - overgeven
 - gekneusd
+- bijsluiter 
+- ontsteking
