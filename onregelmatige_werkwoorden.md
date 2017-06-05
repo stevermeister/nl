@@ -10,6 +10,7 @@ hebben
 - schrijven - schreef/schreven - hebben geschreven
 - helpen - hielp/hielpen - hebben geholpen
 - eten - at/aten - hebben geëten
+- bewegen - bewogen - hebben bewogen
 
 zijn
 - zijn - 	was/waren - zijn geweest
